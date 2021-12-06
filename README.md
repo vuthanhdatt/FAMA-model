@@ -1,1 +1,1 @@
-# Exercise fo university
+# Exercise for university
